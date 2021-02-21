@@ -1,0 +1,11 @@
+.Profile {
+  background-color: #8aa09c;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  margin: 2% 41%;
+  padding: 1%;
+  height: 244px;
+  border-radius: 10px;
+}
